@@ -1,0 +1,19 @@
+{
+  "main.css": "/sw-movies/static/css/main.fd1a87f6.chunk.css",
+  "main.js": "/sw-movies/static/js/main.9cacb26a.chunk.js",
+  "main.js.map": "/sw-movies/static/js/main.9cacb26a.chunk.js.map",
+  "runtime~main.js": "/sw-movies/static/js/runtime~main.a1a9de24.js",
+  "runtime~main.js.map": "/sw-movies/static/js/runtime~main.a1a9de24.js.map",
+  "static/css/2.48100370.chunk.css": "/sw-movies/static/css/2.48100370.chunk.css",
+  "static/js/2.88da4ac2.chunk.js": "/sw-movies/static/js/2.88da4ac2.chunk.js",
+  "static/js/2.88da4ac2.chunk.js.map": "/sw-movies/static/js/2.88da4ac2.chunk.js.map",
+  "index.html": "/sw-movies/index.html",
+  "precache-manifest.3b0618f86f441a661637a9602316e1c1.js": "/sw-movies/precache-manifest.3b0618f86f441a661637a9602316e1c1.js",
+  "service-worker.js": "/sw-movies/service-worker.js",
+  "static/css/2.48100370.chunk.css.map": "/sw-movies/static/css/2.48100370.chunk.css.map",
+  "static/css/main.fd1a87f6.chunk.css.map": "/sw-movies/static/css/main.fd1a87f6.chunk.css.map",
+  "static/media/ARROWCLOSE.svg": "/sw-movies/static/media/ARROWCLOSE.9f3a719a.svg",
+  "static/media/ARROWOPEN.svg": "/sw-movies/static/media/ARROWOPEN.4d66597d.svg",
+  "static/media/LOGO.svg": "/sw-movies/static/media/LOGO.8b6d4945.svg",
+  "static/media/deletePlanet.svg": "/sw-movies/static/media/deletePlanet.4b823e92.svg"
+}
